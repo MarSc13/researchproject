@@ -7,3 +7,5 @@ People start using it.
 ## notes
 
 Colleaque A had a great idea. Lets think about that.
+
+Advisors comment.
