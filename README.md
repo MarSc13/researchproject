@@ -1,5 +1,4 @@
-
-# Science project
+# Research project
 A project about my project
 People start using it. 
 ## usage
